@@ -25,7 +25,7 @@ SECRET_KEY = 'owm(nj*#)z62mgjws2-itrhl*s*=*hscujrc@4b0t#k&gwz57%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['18.191.243.252']
+ALLOWED_HOSTS = ['127.0.0.1','52.15.230.81']
 
 
 # Application definition
