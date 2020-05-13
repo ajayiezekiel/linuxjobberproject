@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def get_grading_parameters(request):
-    return HttpResponse("This is a Scrumy Application")
+    return HttpResponse("Welcome to Django")
