@@ -26,7 +26,7 @@ Description: =====
         
         2. Include the ajayiezekiel9000scrumy URLconf in your project urls.py like this::
         
-            path('polls/', include('ajayiezekiel9000scrumy')),
+            path('ajayiezekiel9000scrumy/', include('ajayiezekiel9000scrumy')),
         
         3. Run ``python manage.py migrate`` to create the ajayiezekiel9000scrumy models.
         
@@ -42,10 +42,7 @@ Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: BSD License
 Classifier: Operating System :: OS Independent
 Classifier: Programming Language :: Python
-Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.5
 Classifier: Programming Language :: Python :: 3.6
-Classifier: Programming Language :: Python :: 3.7
-Classifier: Programming Language :: Python :: 3.8
 Classifier: Topic :: Internet :: WWW/HTTP
 Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content

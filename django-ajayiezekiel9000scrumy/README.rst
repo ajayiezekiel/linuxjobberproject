@@ -18,7 +18,7 @@ Quick start
 
 2. Include the ajayiezekiel9000scrumy URLconf in your project urls.py like this::
 
-    path('polls/', include('ajayiezekiel9000scrumy')),
+    path('ajayiezekiel9000scrumy/', include('ajayiezekiel9000scrumy')),
 
 3. Run ``python manage.py migrate`` to create the ajayiezekiel9000scrumy models.
 
