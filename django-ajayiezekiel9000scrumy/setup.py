@@ -17,7 +17,7 @@ setup(
     description = 'A django app inspired by six-week Django Linuxjobber internship.',
     long_description = README,
     url = 'https://www.example.com/',
-    author = 'ajayiezekiel9000',
+    author = 'Your Name',
     author_email = 'yourname@example.com',
     classifiers =[
         'Environment :: Web Environment',
