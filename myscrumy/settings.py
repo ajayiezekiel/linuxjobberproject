@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'ajayiezekiel9000scrumy.apps.Ajayiezekiel9000ScrumyConfig'
+    'ajayiezekiel9000scrumy',
 ]
 
 MIDDLEWARE = [
